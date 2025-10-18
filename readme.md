@@ -179,4 +179,4 @@ Do whatever you want with it.
 
 ---
 
-**Bottom line:** One interface. Three workflows. End-to-end encryption. No bullshit.
+**Bottom line:** One interface. Three workflows. End-to-end encryption.
